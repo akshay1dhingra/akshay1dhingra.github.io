@@ -1,0 +1,21 @@
+# Site settings
+title: The Coding Journey
+header-img: img/home-bg.png
+email: akshay1dhingra@gmail.com
+copyright_name: akshay1dhingra
+description: > # this means to ignore newlines until "baseurl:"
+  From Beginner To Winner - How I Learned To Code 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  akshay1dhingra
+learn_profile: akshay1dhingra
+email_username: akshay1dhingra@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
