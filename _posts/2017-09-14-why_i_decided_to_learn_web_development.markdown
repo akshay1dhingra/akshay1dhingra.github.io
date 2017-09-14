@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I Decided to Learn Web Development"
-date:   2017-09-14 15:36:58 +0000
+date:   2017-09-14 11:36:59 -0400
 ---
 
 
@@ -13,6 +13,3 @@ I graduated from a university about 5 years ago, and though I do not miss writin
 
 FCC has a great community that is structured similarily to Flatiron School. They have open source, real world projects that are then used by non-profits. They also teach you to build a portfolio to present to potential hiring managers. But they were lacking in quite a few areas, such as technical help and study groups. I find value in having 1 on 1 time with instructors to talk through the code to understand what is happening. Every time I got stuck on FCC, I was left on my own and could not fully understand why certain code did what... My cousin understood my quolms as he went through the same thing in the beginning of his journey, and he encouraged me to join a bootcamp. After a solid year of researching different camps, Flatiron School seemed like the best choice. I am thrilled to be apart of this community and looking forward to tackling this curriculum with all of you.  
 
-http://wilycodger.com/2017/09/09/why_did_i_decide_to_learn_software_dev/
-
-https://richard-burd.github.io/2017/09/11/why_i_decided_to_learn_software_development/
