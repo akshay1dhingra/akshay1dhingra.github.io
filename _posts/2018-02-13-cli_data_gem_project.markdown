@@ -10,13 +10,13 @@ I decided to create my project on Cryptocurrency data. Being a timid investor my
 
 The gem scrapes off of www.coinranking.com and prints out the top 50 coins and their attributes such as name, price, market cap, change, and description. 
 
-# Setting Up 
+**Setting Up **
 
 At the beginning, I decided to create the gem locally instead of IDE. I installed Atom, Bash, and uploaded my machines' SSH key to my github account. I quickly learned that windows and BASH do not work well together at all. This, I later found out, is due to the fact that BASH is supposed to be used with UNIX based OS. I added `STDOUT.sync = true` at the beginning of my CLI class so that my BASH flushes out its memory onto the command prompt as the program computes the data. I also found out that I could use the Command Prompt that comes with Windows to circumvent this issue all together. This is why most web developers choose to work on Macs or Linux instead of windows. 
 
 Once the local environment is set up, the next step is to set up the gem. This is easily done by typing `bundle gem [your project name]` into your terminal or command prompt. This creates your gem project with all the necessary files and folders in whichever folder you are `cd` into. You then `git init` to initialize your git repository so that you can `git commit -m "first commit"` your first commit and begin saving changes. It is also wise to add a .gitignore file to your project if you wish to keep your repository neat and clean. Next step is to add your dependencies to your gemspec file for example `pec.add_development_dependency "pry"` and `pec.add_development_dependency "nokogiri"`. 
 
-# Project 
+**Project **
 
 The trickiest part about this project is using Nokogiri to scrape the web page. Please open www.coinranking.com then right-click and inspect the page. To make my project work, I need to scrape all 50 coins names, price, market cap, change, and if you click on the name it takes you to another page and towards the bottom I needed to scrape the description. In order for me to access these individual attributes, I need to build an array. 
 
