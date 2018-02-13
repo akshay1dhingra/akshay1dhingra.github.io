@@ -1,11 +1,10 @@
 ---
 layout: post
 title:      "CLI Data Gem Project"
-date:       2018-02-13 19:24:38 +0000
+date:       2018-02-13 14:24:39 -0500
 permalink:  cli_data_gem_project
 ---
 
- https://jljardon.github.io/the_scraping_gem
 
 I decided to create my project on Cryptocurrency data. Being a timid investor myself, I thought this would be a fun and useful gem for me to have on my machine.
 
