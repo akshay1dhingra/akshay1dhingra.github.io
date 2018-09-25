@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra and ActiveRecord "
-date:       2018-09-25 21:04:36 +0000
+date:       2018-09-25 17:04:38 -0400
 permalink:  sinatra_and_activerecord
 ---
 
